@@ -1,0 +1,14 @@
+This file can be used to document future development
+
+ * To be implemented may 30, 2013: 
+
+
+- produce a model that alows estimating leaching on leaf as a function of leaf geometry and incoming direction of rain
+  -> get angle of geometry in g
+  -> apply the model for a given incidence angle
+
+- produce a model that estimate surface impacted by a rain/flux from surface area and debit throughthe surface (q.m-2.s-1). In the case of pesticide would need to retrieve the speed of the vehicle during the spray or duration of spray for one square  meter
+
+- produce a model that estimate the total number of droplets per square meter splashed during a rain event using hourly meteorological data and spatialise it using projected area in the direction of rain 
+
+
